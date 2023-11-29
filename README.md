@@ -1,4 +1,3 @@
-# WEB-Webseite
 <html>
 
 <head>
